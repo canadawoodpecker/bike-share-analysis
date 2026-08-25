@@ -37,7 +37,7 @@ All insights therefore rely on observable trip patterns (duration, time of day, 
 * Methology & Skills - The goal of this project is to identify patterns and trends by analyzing large‑scale historical trip data. Python is the primary tool for data manipulation, cleaning, and visualization due to its efficiency and flexibility with diverse data formats. Excel is used for initial inspection and manual preprocessing of complex or inconsistent data.
 
 ## Key tools and libraries include:
-
+* Jupyter Notebook with Python Technology - Jupyter Notebook with Python is ideal for exploring messy, multi‑year datasets through interactive, step‑by‑step analysis and data visualization.
 * Python libraries: NumPy, pandas, datetime, openpyxl
 * Visualization: Matplotlib, seaborn, IPython
 * Excel: Manual review and preprocessing of raw CSV structures with formulas and functions such as vlookup
