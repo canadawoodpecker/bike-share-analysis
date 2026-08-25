@@ -16,6 +16,19 @@ Recognizing this opportunity, Lily Moreno, Director of Marketing, has set a stra
 How do annual members and casual riders use Cyclistic bikes differently?
 This project analyzes Cyclistic’s historical trip data to uncover behavioral trends, usage frequency, ride duration, temporal patterns, and station preferences across rider types. These insights will inform the development of a data-driven marketing strategy aimed at converting casual riders into committed annual members. These findings will directly influence Cyclistic’s future marketing direction and will serve as the evidence base for executive approval of the proposed membership growth strategy.
 
+## Limitations
+Cyclistic’s trip data is fully anonymized, meaning the analysis is based solely on ride behavior rather than customer‑level information. Because personally identifiable data is not included:  
+  
+* Trip records cannot be linked to individual riders or purchase histories
+* We cannot determine whether casual riders live in the service area
+* We cannot identify riders who repeatedly buy single‑ride passes
+* Customer segmentation (demographics, residency, frequency profiles) is not possible
+
+Additionally, usage ratios—such as 70% member trips vs. 30% casual trips—reflect trip volume, not the number of unique riders.
+We cannot conclude whether members ride more because there are more members, or because each member rides more frequently.  
+  
+All insights therefore rely on observable trip patterns (duration, time of day, station usage), not customer‑level targeting.  
+
 ## Considerations to analysis
 * Product Context - Bicycle usage is highly seasonal and strongly influenced by weather conditions.
 * Location Context - Chicago experiences harsh winters, which significantly affect bike‑share activity and must be considered when interpreting trends.
